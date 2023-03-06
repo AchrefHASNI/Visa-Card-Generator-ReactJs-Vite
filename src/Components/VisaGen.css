@@ -1,0 +1,184 @@
+.container {
+    margin: 20px;
+    padding: 20px;
+    background: #393e46;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 2px 10px 20px rgb(0, 146, 202, 0.3);
+}
+
+.main-title {
+    text-transform: uppercase;
+}
+
+.css-xn6ruc>:not(style) {
+    margin: 12px !important;
+    padding: 10px 0;
+    width: 90% !important;
+}
+
+.content {
+    display: flex;
+    align-items: left;
+    justify-content: space-evenly;
+}
+
+.left {
+    text-align: left;
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+    background: #0092ca !important;
+    color: #eeeeee !important;
+}
+
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root {
+    color: #eeeeee !important;
+}
+
+.css-1jy569b-MuiFormLabel-root-MuiInputLabel-root {
+    color: #eeeeee !important;
+}
+
+.cvv-label {
+    text-align: center;
+    padding-top: inherit;
+}
+
+.check {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    padding-top: inherit;
+    top: 10px;
+}
+
+.check:checked {
+    background: #0092ca;
+}
+
+
+/* .box {
+    background: #cfbe74;
+} */
+
+.bin {
+    text-align: left;
+}
+
+.date {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Generate {
+    text-align: center;
+}
+
+.gen-btn {
+    background: #eeeeee;
+    color: #0092ca;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    width: 80%;
+    height: 50px;
+    border-radius: 7px
+}
+
+.gen-btn:hover {
+    box-shadow: 3px 7px 10px #0092ca;
+}
+
+.cvv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cvv-input {
+    width: 55%;
+}
+
+.quantity {
+    width: 20% !important;
+}
+
+.years {
+    width: 40% !important;
+}
+
+.Months {
+    width: 40% !important;
+}
+
+.copy-btn {
+    height: 50px;
+    width: 30%;
+    border: none;
+    border-radius: 7px;
+    background: #eeeeee;
+    color: #0092ca;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.copy-btn:hover {
+    box-shadow: 3px 7px 10px #0092ca;
+}
+
+.spn {
+    font-weight: 700;
+}
+
+.textarea {
+    background: #0092ca;
+    outline: none;
+    color: #eeeeee;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px;
+    resize: none;
+}
+
+.description {
+    padding: 5% 2%;
+    text-align: left;
+    line-height: 200%;
+    font-size: large;
+}
+
+@media only screen and (max-width:768px) {
+    .container {
+        margin: 20px;
+    }
+    .content {
+        display: grid;
+        justify-content: center;
+    }
+    .left {
+        width: 100%;
+    }
+}
+
+.footer {
+    display: grid;
+    justify-content: center;
+    bottom: 0%;
+}
+
+.icon {
+    height: 40px !important;
+    width: 40px !important;
+    color: #139bc1;
+}
+
+.icons {
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+.copyr {
+    color: #139bc1;
+    font-size: 18px;
+    font-weight: 600;
+}
