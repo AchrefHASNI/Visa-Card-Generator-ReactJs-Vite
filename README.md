@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img width="400" src="./vite.svg" alt="logo of awesome-vite repository">
+  <img width="400" src="../public/vite.svg" alt="logo of awesome-vite repository">
   <br>
   <br>
 </p>
