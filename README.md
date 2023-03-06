@@ -1,11 +1,5 @@
-# vite-pages app fake  visa card generator
+# Vite-React-pages app fake  visa card generator
 
-<p align="center">
-  <br>
-  <img width="400" src="../public/vite.svg" alt="logo of awesome-vite repository">
-  <br>
-  <br>
-</p>
 
 
 This is a fake Visa card  generator  app useing  vite-react js.
